@@ -3,7 +3,7 @@
  https://masum-yasin.github.io/AGRICULTURE-TECNOLOGY/
 ## Link Of page:
 *Home page
-* About page
+*About page
 *contact page
 *profile page
  ## Technologies:
